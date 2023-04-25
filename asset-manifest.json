@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/lawyer-portfolio/static/css/main.48317be3.css",
-    "main.js": "/lawyer-portfolio/static/js/main.e67b4bde.js",
+    "main.js": "/lawyer-portfolio/static/js/main.b1802b53.js",
     "static/js/787.405c94ea.chunk.js": "/lawyer-portfolio/static/js/787.405c94ea.chunk.js",
     "static/media/HTML_Code_Snippet.png": "/lawyer-portfolio/static/media/HTML_Code_Snippet.2511048912e66ff34cda.png",
     "static/media/LotteryGame.png": "/lawyer-portfolio/static/media/LotteryGame.d76f3af8f9cfe3ecbb4c.png",
@@ -27,11 +27,11 @@
     "static/media/CoolveticaRg-Regular.woff2": "/lawyer-portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/lawyer-portfolio/index.html",
     "main.48317be3.css.map": "/lawyer-portfolio/static/css/main.48317be3.css.map",
-    "main.e67b4bde.js.map": "/lawyer-portfolio/static/js/main.e67b4bde.js.map",
+    "main.b1802b53.js.map": "/lawyer-portfolio/static/js/main.b1802b53.js.map",
     "787.405c94ea.chunk.js.map": "/lawyer-portfolio/static/js/787.405c94ea.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.48317be3.css",
-    "static/js/main.e67b4bde.js"
+    "static/js/main.b1802b53.js"
   ]
 }
