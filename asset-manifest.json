@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/lawyerportfolio/static/css/main.cd02ca4b.css",
+    "main.js": "/lawyerportfolio/static/js/main.6b7e7362.js",
+    "static/js/787.405c94ea.chunk.js": "/lawyerportfolio/static/js/787.405c94ea.chunk.js",
+    "static/media/HTML_Code_Snippet.png": "/lawyerportfolio/static/media/HTML_Code_Snippet.2511048912e66ff34cda.png",
+    "static/media/LotteryGame.png": "/lawyerportfolio/static/media/LotteryGame.d76f3af8f9cfe3ecbb4c.png",
+    "static/media/sql_ui.png": "/lawyerportfolio/static/media/sql_ui.c7fb949d6ee74e453246.png",
+    "static/media/php_code_snippet.png": "/lawyerportfolio/static/media/php_code_snippet.2703b7df12995a541108.png",
+    "static/media/logo-vc.png": "/lawyerportfolio/static/media/logo-vc.eb6b905e617e87709536.png",
+    "static/media/vb_code_snippet.png": "/lawyerportfolio/static/media/vb_code_snippet.df21b361b52c3f385602.png",
+    "static/media/C++_Code_Snippet.png": "/lawyerportfolio/static/media/C++_Code_Snippet.b14c81de233280c3544c.png",
+    "static/media/android_code_snippet.png": "/lawyerportfolio/static/media/android_code_snippet.c4a9f34198d3f69c4f18.png",
+    "static/media/PHP_UI.png": "/lawyerportfolio/static/media/PHP_UI.fd2b3766a5d310a33d15.png",
+    "static/media/Yahtzee_UI.png": "/lawyerportfolio/static/media/Yahtzee_UI.01d1c9135a751db2df07.png",
+    "static/media/sql_code_snippet.png": "/lawyerportfolio/static/media/sql_code_snippet.2793077abf0fe456b198.png",
+    "static/media/HTML_UI.png": "/lawyerportfolio/static/media/HTML_UI.bf9cef1b5d73959c6b0e.png",
+    "static/media/javascript_code_snippet.png": "/lawyerportfolio/static/media/javascript_code_snippet.156eac5c1e03a4ad200b.png",
+    "static/media/react_code_snippet.png": "/lawyerportfolio/static/media/react_code_snippet.fdc81ea97d3659c4a9c0.png",
+    "static/media/MemoryGame_UI.png": "/lawyerportfolio/static/media/MemoryGame_UI.4bb7d50ccc32033fb556.png",
+    "static/media/PrisonBreak.png": "/lawyerportfolio/static/media/PrisonBreak.1b37e9a224a621c8becf.png",
+    "static/media/helvetica-neu.ttf": "/lawyerportfolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/SafeTowing_UI.png": "/lawyerportfolio/static/media/SafeTowing_UI.7a701c7625ace2798c62.png",
+    "static/media/LaBelleAurore.woff": "/lawyerportfolio/static/media/LaBelleAurore.9c5433c64baa43d1d274.woff",
+    "static/media/LaBelleAurore.woff2": "/lawyerportfolio/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/CoolveticaRg-Regular.woff": "/lawyerportfolio/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff",
+    "static/media/CoolveticaRg-Regular.woff2": "/lawyerportfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/lawyerportfolio/index.html",
+    "main.cd02ca4b.css.map": "/lawyerportfolio/static/css/main.cd02ca4b.css.map",
+    "main.6b7e7362.js.map": "/lawyerportfolio/static/js/main.6b7e7362.js.map",
+    "787.405c94ea.chunk.js.map": "/lawyerportfolio/static/js/787.405c94ea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd02ca4b.css",
+    "static/js/main.6b7e7362.js"
+  ]
+}
